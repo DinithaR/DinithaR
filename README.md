@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! 🎉  
 I'm a **software engineering student** with a passion for **web development** and **technology**.  
-I specialize in creating **WordPress websites**, **video editing**, and delivering projects with **100% commitment**.
 
 ---
 
