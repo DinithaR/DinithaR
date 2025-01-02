@@ -8,11 +8,11 @@ I specialize in creating **WordPress websites**, **video editing**, and deliveri
 
 ## 💡 About Me
 
-- 🎓 **Software Engineering Student** at [Your University Name].  
-- 🌐 **Freelance Web Developer**: Crafting beautiful, responsive websites on WordPress.  
+- 🎓 **Software Engineering Student** at Sri Lanka Institute of Information Technology (SLIIT).  
+- 🌐 **Freelance Web Developer**: Crafting beautiful, responsive websites.  
 - 🎬 **Video Editor**: Creating impactful video content.  
 - 🌱 **Currently Learning**: Advanced JavaScript, React, and AI technologies.  
-- 🌍 **Location**: [Your Location].  
+- 🌍 **Location**: LK.  
 
 ---
 
@@ -33,31 +33,10 @@ I specialize in creating **WordPress websites**, **video editing**, and deliveri
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## ✨ Fun Facts
-
-- 📍 I recently visited Deniyaya, Mirissa, and Hikkaduwa in Sri Lanka with my best friends.  
-- 🌟 Favorite quote: *"Code is like humor. When you have to explain it, it’s bad."*  
-
----
-
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio](https://yourwebsite.com)  
-- 📧 Email: [YourEmail@example.com]  
+- 💼 [LinkedIn](https://linkedin.com/in/dinitharanketh/))  
+- 🌐 [Portfolio](https://ranketh.online)  
+- 📧 Email:  
 
 ---
-
-## 🎯 Goals for 2025
-
-- 🚀 Build and launch my first SaaS product.  
-- 🏆 Contribute to open-source projects.  
-- 🌟 Expand my freelancing business globally.  
