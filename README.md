@@ -38,7 +38,7 @@ I specialize in creating **WordPress websites**, **video editing**, and deliveri
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/dinitharanketh/))  
+- 💼 [LinkedIn](https://linkedin.com/in/dinitharanketh/)
 - 🌐 [Portfolio](https://ranketh.online)  
 - 📧 Email:  
 
