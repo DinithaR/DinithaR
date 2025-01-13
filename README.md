@@ -26,7 +26,6 @@ I'm a **software engineering student** with a passion for **web development** an
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/dinitharanketh/)
 - 🌐 [Portfolio](https://ranketh.online)  
 - 📧 Email:  
 
