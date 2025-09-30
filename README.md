@@ -63,6 +63,7 @@ A passionate **software engineering student** specializing in **web** and **Andr
 ![ImageKit](https://img.shields.io/badge/ImageKit-1A73E8?style=flat-square&logo=imagekit&logoColor=white)
 ![pdfkit](https://img.shields.io/badge/pdfkit-FF3300?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)
 
+### My Projects 
 
 - **TuneShare – Music Instrument Rental Platform**  
   MERN stack project supporting role-based rentals, Stripe integration, review/rating dashboards, and real-time notifications.
