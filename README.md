@@ -32,6 +32,7 @@ A passionate **software engineering student** specializing in **web** and **Andr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### Platforms, Databases & Cloud
 
@@ -57,6 +58,7 @@ A passionate **software engineering student** specializing in **web** and **Andr
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-26B6E9?style=flat-square&logo=jetbrains&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor%20AI-2C2C2C?style=flat-square&logo=cursor&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-FDAD00?style=flat-square&logo=plantuml&logoColor=black)
