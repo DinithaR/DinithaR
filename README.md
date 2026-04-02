@@ -63,14 +63,9 @@ I’m a **Software Engineering Undergraduate** with strong hands-on experience i
 
 ---
 
-🔗 https://github.com/DinithaR/ranketh  
-🔗 https://www.dinitharanketh.com/
-
----
-
 ## 📬 Let’s Connect
 
-- 🌐 Portfolio: https://ranketh.online
+- 🌐 Portfolio: https://www.dinitharanketh.com
 - 💼 LinkedIn: https://linkedin.com/in/dinitharanketh
 - 🗂️ GitHub: https://github.com/DinithaR
 
