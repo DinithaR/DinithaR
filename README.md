@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dinitha Ranketh
 
 Welcome to my GitHub profile! 🚀  
-I’m a **Software Engineering Undergraduate** with strong hands-on experience in **full-stack and backend development**, passionate about building scalable, production-ready systems and learning modern technologies.
+I’m a **Software Engineering Undergraduate** with strong hands-on experience in **full-stack development**, passionate about building scalable, production-ready systems and learning modern technologies.
 
 ---
 
@@ -9,8 +9,7 @@ I’m a **Software Engineering Undergraduate** with strong hands-on experience i
 
 - 🎓 **BSc (Hons) in Software Engineering** – Sri Lanka Institute of Information Technology (SLIIT) (2023 – Present)
 - 💻 **Full-Stack & Backend Developer** with experience in Java, Python, Spring Boot, Flask, React, and REST APIs
-- 🔧 Strong focus on **clean code, OOP principles, and scalable architecture**
-- 📱 Experience with **Android & Flutter** app development
+- 📱 Experience with **Web & Android** app development
 - 🌍 Based in **Colombo, Sri Lanka**
 
 ---
@@ -64,53 +63,8 @@ I’m a **Software Engineering Undergraduate** with strong hands-on experience i
 
 ---
 
-## 🚀 Projects
-
-### 🎵 TuneShare – Music Instrument Rental Platform (MERN)
-- Full MERN-stack system with **role-based access** (User, Owner, Admin)
-- Availability-aware search (location + date)
-- Complete booking lifecycle with late-fee automation
-- Stripe Checkout + webhook-based payment verification
-- PDF invoice/report generation using **pdfkit**
-- Image handling with **ImageKit**
-🔗 https://github.com/DinithaR/TuneShare-ITP
-
----
-
-### 🔨 BidMaster – Online Bidding System
-- Java, JSP, Servlets, MySQL (MVC architecture)
-- Secure session handling and role-based dashboards
-- Auction, bidding, and validation logic
-🔗 https://github.com/DinithaR/BidMaster
-
----
-
-### ✈️ Airline Ticket Reservation System
-- PHP, JavaScript, MySQL-based reservation platform
-- Admin panel, booking flow, payments, and feedback
-- UML & CRC-driven system design
-🔗 https://github.com/DinithaR/Air-Ticket-Reservation-IWT
-
----
-
-### 🎙️ Talkd – Audio-First Social Media App (Ongoing)
-- Flutter & Dart MVP
-- Audio-only posting and interaction concept
-- Clean, scalable mobile-first architecture
-🔗 https://github.com/DinithaR/talkd
-
----
-
-### 🧑‍💼 Careers Platform
-- Flask, MySQL, Bootstrap
-🔗 https://github.com/DinithaR/careers-platform
-
----
-
-### 🌐 My Portfolio
-- Flask, Tailwind CSS, GSAP animations
 🔗 https://github.com/DinithaR/ranketh  
-🔗 https://ranketh.online
+🔗 https://www.dinitharanketh.com/
 
 ---
 
